@@ -1,0 +1,16 @@
+Installing SASS Watcher
+
+It’s really easy to install SASS Watcher. Simply download it and place it in the following folder: ~/Library/Services/ (where ~ is your home folder, of course)
+
+
+How does it work?
+
+It being an OS X service, means that you can find it in the contextual menu of a text file in the Finder:
+
+1. Right-click (or Control-click) a SASS file
+2. Hover “Services” and there is the “SASS Watch”
+3. Click it
+That’s it. Simply right click the file, and click the contextual menu item. Boom! You’re generating CSS files. (If “SASS Watch” doesn’t pop up in the contextual menu, try restarting the Finder; right click the finder icon whilst holding Option / Alt)
+
+
+More information in the release blog post: http://miekd.com/articles/sass-watcher/
